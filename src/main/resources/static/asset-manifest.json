@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f27e7f9.css",
+    "main.js": "/static/js/main.c84efccb.js",
+    "static/media/react.svg": "/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
+    "static/media/spring-boot.svg": "/static/media/spring-boot.d5297a6b9694ea07f8f65f7b1962bb8f.svg",
+    "index.html": "/index.html",
+    "main.3f27e7f9.css.map": "/static/css/main.3f27e7f9.css.map",
+    "main.c84efccb.js.map": "/static/js/main.c84efccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f27e7f9.css",
+    "static/js/main.c84efccb.js"
+  ]
+}
